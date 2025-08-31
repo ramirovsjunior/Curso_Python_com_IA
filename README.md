@@ -5,41 +5,6 @@ Aqui você encontrará todo o material do curso: slides, notebooks, datasets e a
 
 ---
 
-## 📂 Estrutura do Repositório
-
-Curso-Python-IA/
-│── README.md # Documentação principal do curso
-│── requirements.txt # Dependências do curso
-│── .gitignore
-│
-├── atividades/ # Exercícios do livro Python Crash Course
-│ ├── capitulo_01/
-│ ├── capitulo_02/
-│ └── ...
-│
-├── datasets/ # Datasets utilizados no curso
-│ ├── README.md # Explicação da origem e uso dos dados
-│ └── dataset_maior.zip # (ou link externo se >100 MB)
-│
-├── aulas/ # Materiais de cada aula
-│ ├── aula01/
-│ │ ├── slides.pptx
-│ │ ├── aluno.ipynb
-│ │ └── professor.ipynb
-│ │
-│ ├── aula02/
-│ │ ├── slides.pptx
-│ │ ├── aluno.ipynb
-│ │ └── professor.ipynb
-│ │
-│ └── ...
-│
-└── utils/ # Scripts auxiliares
-└── scripts_auxiliares.py
-
-
----
-
 ## 📘 Atividades
 
 As atividades práticas estão organizadas por capítulos do livro **Python Crash Course (Eric Matthes)**.  
@@ -56,7 +21,7 @@ Para estes casos, recomenda-se utilizar:
 - [Google Drive/OneDrive compartilhado]
 - [Hugging Face Datasets](https://huggingface.co/datasets)
 
-📌 No arquivo [`datasets/README.md`](datasets/README.md) você encontrará instruções para baixar os dados.
+📌 No arquivo ['datasets/README.md'](datasets/README.md) você encontrará instruções para baixar os dados.
 
 ---
 
@@ -68,6 +33,6 @@ Para estes casos, recomenda-se utilizar:
 📧 Contato
 
 Dúvidas podem ser enviadas para o instrutor:
-Ramiro Júnior – Engenheiro de Desenvolvimento (Petrobras / RTT Soluções Industriais)
-Instrutor de Informática – SENAC
+
+* Ramiro Júnior – Professor de Informática – SENAC
 ramiro.junior@rn.senac.br

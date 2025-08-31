@@ -1,1 +1,0 @@
-[Baixar creditcard.csv](https://www.dropbox.com/s/b44o3t3ehmnx2b7/creditcard.csv?dl=1)
